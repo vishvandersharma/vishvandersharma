@@ -1,3 +1,5 @@
+![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+
 <h1 align="center">Hi 👋, I'm Vishvander</h1>
 <h3 align="center">An Aspiring Data Analyst with Post Graduation in Data science Program</h3>
 
