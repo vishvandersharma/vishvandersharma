@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishvandersharma&label=Profile%20views&color=0e75b6&style=flat" alt="vishvandersharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishvandersharma" alt="vishvandersharma" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 - 🌱 I’m currently learning **Deep Learning, Tableau, PowerBI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishvandersharma](https://github.com/vishvandersharma)
